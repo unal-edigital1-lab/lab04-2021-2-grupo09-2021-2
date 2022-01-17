@@ -1,0 +1,85 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/simulation/modelsim
+vBCDtoSSeg
+Z1 !s110 1642407680
+!i10b 1
+!s100 dPZ^[1PlOV45kZe3Pno?N1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<noNe`=;4;XPDzASizA?V1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1641936817
+8C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/BCDtoSSeg.v
+FC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/BCDtoSSeg.v
+!i122 1
+L0 1 28
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1642407680.000000
+!s107 C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/BCDtoSSeg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src|C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/BCDtoSSeg.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src
+Z9 tCvgOpt 0
+n@b@c@dto@s@seg
+vdisplay
+R1
+!i10b 1
+!s100 BU:9kX0QgN060BYjOYmFF1
+R2
+IL<AVNWF_B17oIcFzNDVL?0
+R3
+R0
+R4
+8C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/display.v
+FC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/display.v
+!i122 0
+L0 2 47
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/display.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src|C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/display.v|
+!i113 1
+R7
+R8
+R9
+vTestBench
+!s110 1642407681
+!i10b 1
+!s100 WoYmD[WVCk[jPKJEh;`P<1
+R2
+IZ9=Did@6VA1TM3G;kKHX92
+R3
+R0
+w1642407546
+8C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/TestBench.v
+FC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/TestBench.v
+!i122 2
+L0 25 50
+R5
+r1
+!s85 0
+31
+!s108 1642407681.000000
+!s107 C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/TestBench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src|C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/src/TestBench.v|
+!i113 1
+R7
+R8
+R9
+n@test@bench

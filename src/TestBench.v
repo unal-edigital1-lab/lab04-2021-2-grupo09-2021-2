@@ -64,7 +64,7 @@ module TestBench;
 		#100;
       for (addrRa = 0; addrRa < 8; addrRa = addrRa + 1) begin
 			#5 addrRb=addrRa+8;
-			 $display("el valor de registro %d =  %d y %d = %d", addrRa,datOutRa,addrRb,datOutRb) ;
+			 //$display("el valor de registro %d =  %d y %d = %d", addrRa,datOutRa,addrRb,datOutRb) ;
     end
 	 
 		

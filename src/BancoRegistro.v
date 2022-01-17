@@ -18,7 +18,7 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module BancoRegistro #(      		 //   #( Parametros
+module BancoRegistro #(      		 //   #(
          parameter BIT_ADDR = 8,  //   BIT_ADDR Número de bit para la dirección
          parameter BIT_DATO = 4  //  BIT_DATO  Número de bit para el dato
 	)
