@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/simulation/modelsim
+vBanco_Registros
+!s110 1642484693
+!i10b 1
+!s100 Qf0CQ3[Q]Am3bPlCL3ad=2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Im?Tk3>zN<mJ`IUAF4nzeo3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1642483848
+8C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v
+FC:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v
+!i122 0
+L0 1 45
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1642484693.000000
+!s107 C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD|C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD
+tCvgOpt 0
+n@banco_@registros

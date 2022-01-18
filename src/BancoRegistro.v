@@ -42,7 +42,7 @@ localparam NREG = 2 ** BIT_ADDR;
   
 //configiración del banco de registro 
 reg [BIT_DATO-1: 0] breg [NREG-1:0];
-
+reg [BIT_DATO-1:0] cont = 0;
 
 assign  datOutRa = breg[addrRa];
 assign  datOutRb = breg[addrRb];

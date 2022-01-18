@@ -1,0 +1,43 @@
+# Reading pref.tcl
+# ERROR: No extended dataflow license exists
+# do Banco_Registros_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD {C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 00:44:53 on Jan 18,2022
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD" C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v 
+# -- Compiling module Banco_Registros
+# 
+# Top level modules:
+# 	Banco_Registros
+# End time: 00:44:53 on Jan 18,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim -gui -l msim_transcript rtl_work.Banco_Registros
+# vsim -gui -l msim_transcript rtl_work.Banco_Registros 
+# Start time: 00:45:06 on Jan 18,2022
+# Loading rtl_work.Banco_Registros
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$readmenh' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /Banco_Registros File: C:/Users/Roberto/Documents/GitHub/lab04-2021-2-grupo09-2021-2/implementacion_newCOD/Banco_Registros.v Line: 23
+add wave -position insertpoint  \
+sim:/Banco_Registros/BIT_ADDR \
+sim:/Banco_Registros/BIT_DATO \
+sim:/Banco_Registros/DATOS_MEMORIA \
+sim:/Banco_Registros/iClk \
+sim:/Banco_Registros/MEMORIA_AUX_D \
+sim:/Banco_Registros/MEMORIA_AUX_Q \
+sim:/Banco_Registros/oValoe \
+sim:/Banco_Registros/rCounter_D \
+sim:/Banco_Registros/rCounter_Q \
+sim:/Banco_Registros/rst
+# End time: 02:14:46 on Jan 18,2022, Elapsed time: 1:29:40
+# Errors: 0, Warnings: 1
