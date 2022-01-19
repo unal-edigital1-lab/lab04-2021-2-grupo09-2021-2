@@ -60,3 +60,6 @@ always @(posedge clk) begin
 endmodule
 
 ```
+Se opto por cambiar todos los archivos proporcionos y empezar un proyecto nuevo del que se tubiera claridad de los pasos y conceptos aplicados.
+
+A continuacion se presenta el diagrama de bloques que ejemplifica el circuito implementado.
