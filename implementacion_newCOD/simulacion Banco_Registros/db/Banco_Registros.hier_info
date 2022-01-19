@@ -1,0 +1,21 @@
+|Banco_Registros
+iEntrada_1[0] => ~NO_FANOUT~
+iEntrada_1[1] => ~NO_FANOUT~
+iEntrada_1[2] => ~NO_FANOUT~
+iEntrada_1[3] => ~NO_FANOUT~
+iEntrada_2[0] => ~NO_FANOUT~
+iEntrada_2[1] => ~NO_FANOUT~
+iEntrada_2[2] => ~NO_FANOUT~
+iEntrada_2[3] => ~NO_FANOUT~
+iClk => ~NO_FANOUT~
+rst => ~NO_FANOUT~
+oSalida_1[0] <= <GND>
+oSalida_1[1] <= <GND>
+oSalida_1[2] <= <GND>
+oSalida_1[3] <= <GND>
+oSalida_2[0] <= <GND>
+oSalida_2[1] <= <GND>
+oSalida_2[2] <= <GND>
+oSalida_2[3] <= <GND>
+
+
